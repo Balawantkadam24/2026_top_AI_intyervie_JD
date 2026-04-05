@@ -1,0 +1,307 @@
+# 🚀 JD 2026 for AI Interviews (Top Companies Consolidated)
+
+---
+
+## 🔹 JD1: Lead – GenAI Technology
+
+### Core Skills:
+
+* Agent Orchestration
+* Agentic Coding Tools
+* LangChain, LangGraph, CrewAI (hands-on, not just theory)
+* RAG & Vector Databases
+
+### LLM Ecosystem:
+
+* Claude Code CLI, Cursor, OpenAI Codex, Copilot
+* LLM APIs & SDKs
+* Chroma, Weaviate, Pinecone (understanding RAG limitations)
+* Anthropic, OpenAI, Gemini (prompt design, tool usage)
+
+### Programming:
+
+* Python / TypeScript (primary for agent & backend development)
+
+### Observability:
+
+* LangSmith / tracing tools
+* Debugging & evaluation of agent workflows
+
+### Cloud & Integration:
+
+* Azure / AWS / GCP (at least one)
+* REST, gRPC, Kafka
+* MCP / Shared Context
+
+### Engineering Practices:
+
+* CI/CD, Git, Containers
+* Testing non-deterministic outputs
+* Guardrails, evaluation frameworks
+
+### Soft Skills:
+
+* Client communication
+* Ability to present architecture to CXO
+
+---
+
+## 🔹 JD2: Lead Full Stack + GenAI
+
+### Experience:
+
+* 9–15 years total
+* 2–5 years as Tech Lead (5–8+ team size)
+
+### Requirements:
+
+* Production-grade project experience
+* Real GenAI / Agentic AI implementation
+
+### Tech Stack:
+
+* LangChain / LangGraph / similar frameworks
+* Vector databases
+
+### Full Stack:
+
+* Frontend + Backend (Python preferred over Java)
+* SQL (mandatory)
+* NoSQL (MongoDB – optional)
+
+---
+
+## 🔹 JD3: Agentic AI + RPA Engineer
+
+### Core Platform:
+
+* Automation Anywhere
+
+  * AI Agent Studio
+  * Process Reasoning Engine (PRE)
+  * Human-in-the-loop workflows
+  * Automation Co-Pilot
+  * IQ Bot (unstructured data)
+
+### Development Skills:
+
+* Advanced bot development
+* Error handling & conditional logic
+* API integrations (REST)
+* Secure credential management
+
+### AI Integration:
+
+* ML + LLM integration
+* Predictive analytics & conversational automation
+
+### Cloud:
+
+* AWS / Azure basics
+
+### Certifications (Good to Have):
+
+* RPA Professional / Master Certification
+* Agentic Developer Certification
+
+---
+
+## 🔹 JD4: Generative AI Architect
+
+### Experience:
+
+* 8–12 years
+
+### Key Responsibilities:
+
+* Solution design for GenAI & Agentic systems
+* Framework development
+* LLM optimization & deployment
+
+### Use Cases:
+
+* Workflow automation
+* Content generation
+* Conversational AI
+* Document processing
+* Personalization
+
+### Core Skills:
+
+* Python, TensorFlow, PyTorch
+* ML/DL (NLP, CV)
+* Statistics & data science
+
+### Cloud:
+
+* AWS / Azure / GCP
+
+### Additional:
+
+* Strong problem-solving
+* Communication with stakeholders
+
+---
+
+## 🔹 JD5: AI Full Stack Engineer
+
+### Frontend:
+
+* React.js (TypeScript, Redux)
+* REST / GraphQL integration
+
+### Backend:
+
+* Python (FastAPI / Flask)
+* Async processing
+* Kafka (streaming)
+* Airflow / Celery
+
+### Database:
+
+* PostgreSQL (design + optimization)
+
+### AI/ML:
+
+* PyTorch / TensorFlow / Sklearn
+* Model deployment
+* Monitoring, drift detection, A/B testing
+
+---
+
+## 🔹 JD6: (Not Provided / Skipped)
+
+---
+
+## 🔹 JD7: (Not Provided / Skipped)
+
+---
+
+## 🔹 JD8: AI Engineer Manager (Consulting Focus)
+
+### Focus Areas:
+
+* Deep expertise in AI / GenAI / Agentic AI
+* Business value translation
+* Client delivery mindset
+
+### Leadership:
+
+* Team management & mentoring
+* Driving innovation
+
+---
+
+## 🔹 JD9: AI Architect (Agentic AI)
+
+### Role:
+
+* Design enterprise-level Agentic AI systems
+* Define architecture & scalability
+
+---
+
+## 🔹 JD10: GenAI Developer
+
+### Responsibilities:
+
+* Build scalable enterprise AI solutions
+* Prompt engineering & fine-tuning
+* RAG + Multi-agent systems
+
+### Advanced Skills:
+
+* Transformer models
+* Transfer learning
+* Optimization techniques
+
+### Focus Areas:
+
+* Real-world implementations
+* Prompt safety
+* Cost optimization
+* Human-in-the-loop
+
+---
+
+## 🔹 JD11: Engineering Manager (Full Stack)
+
+### Tech Stack:
+
+* Python, Django
+* MySQL, PostgreSQL
+* AWS
+* React (optional)
+
+### Responsibilities:
+
+* Technical leadership
+* Team mentoring
+* Project delivery
+
+### Additional:
+
+* Coding standards
+* Stakeholder communication
+
+---
+
+## 🔹 JD12: AI/ML Engineer (BFSI Domain)
+
+### Responsibilities:
+
+* Build ML models (fraud, risk, analytics)
+* Data pipelines & feature engineering
+* Model deployment
+
+### Tech Stack:
+
+* Python, React / Angular
+* Spring Boot
+* AWS / Azure
+
+### Additional:
+
+* MLOps (MLflow, CI/CD)
+* NLP / GenAI exposure
+
+---
+
+## 🔹 JD13: Full Stack AI Engineering Manager
+
+### Stack:
+
+* React, Node.js, Python
+* Vector DB + Elasticsearch
+
+### Responsibilities:
+
+* Lead AI agent system development
+* Define architecture
+* CI/CD & testing strategies
+
+### Key Skills:
+
+* Agent-based systems
+* ML integration
+* Human-in-the-loop
+
+### Engineering Excellence:
+
+* Coding standards
+* CI/CD pipelines
+* Security integration
+* Testing (Unit + Integration + E2E)
+
+
+🔥 Final Insight (Important for 2026 Interviews)
+
+Across all JDs, **common must-have skills** 👇
+
+✅ Agentic AI (LangChain, LangGraph, CrewAI)
+✅ RAG + Vector Databases
+✅ LLM APIs (OpenAI, Anthropic, Gemini)
+✅ Full Stack (React + Python backend)
+✅ Cloud (AWS / Azure / GCP)
+✅ CI/CD + MLOps
+✅ Real-world project experience (MOST IMPORTANT)
